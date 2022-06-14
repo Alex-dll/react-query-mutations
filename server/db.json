@@ -20,6 +20,27 @@
       "price": "615.00",
       "description": "Distinctio non a vel nisi voluptatem.",
       "image": "https://fakeimg.pl/350x200/?text=Intelligent Steel Hat"
+    },
+    {
+      "name": "keyboard",
+      "price": "99",
+      "description": "amesome keyboard",
+      "image": "https://image.com/keyboard.png",
+      "id": 3
+    },
+    {
+      "name": "Mouse",
+      "price": "99",
+      "description": "Amesome Mouse",
+      "image": "https://image.com/mouse.png",
+      "id": 4
+    },
+    {
+      "name": "Mouse 2",
+      "price": "99",
+      "description": "Amesome Mouse",
+      "image": "https://image.com/mouse.png",
+      "id": 5
     }
   ]
 }
